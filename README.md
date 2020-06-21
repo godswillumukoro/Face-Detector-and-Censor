@@ -1,0 +1,1 @@
+This simple app detects your face using the FaceDetector API . And would currently only work on Chrome. Plus you have to enable 'Experimental Web Platform features' on your chrome browser to run it.
