@@ -1,1 +1,1 @@
-This simple app detects your face using the FaceDetector API . And would currently only work on Chrome. Plus you have to enable 'Experimental Web Platform features' on your chrome browser to run it.
+This simple app detects and censors your face using the FaceDetector API, which simply takes as input video from your webcam or selected camera. It currently only works on Chrome. Plus you have to enable 'Experimental Web Platform features' on your chrome browser for it to run. You have options to set how censored you want your face to be. Have fun!
