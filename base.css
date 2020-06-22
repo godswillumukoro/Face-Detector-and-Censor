@@ -4,14 +4,7 @@
 
 /* Variables */
 html {
-  --grey: #e7e7e7;
-  --gray: var(--grey);
-  --blue: #0072B9;
-  --pink: #D60087;
   --yellow: #ffc600;
-  --black: #2e2e2e;
-  --red: #c73737;
-  --green: #61e846;
   --text-shadow: 2px 2px 0 rgba(0,0,0,0.2);
   --box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
   font-size: 62.5%;
@@ -31,91 +24,11 @@ body {
   background-size: 15px;
 }
 
-.size {
-  margin: 0;
-  padding: 0;
-  float: left;
-}
-
-/* Table Styles */
-
-table {
-  border-radius: 5px;
-  overflow: hidden;
-  margin-bottom: 2rem;
-  border-collapse: collapse;
-}
-
-td, th {
-  border: 1px solid var(--grey);
-  padding: 0.5rem;
-}
-
-
-/* Helper Divs */
-
-.wrapper {
-  max-width: 1000px;
-  margin: 4rem auto;
-  padding: 2rem;
-  background: white;
-}
-
-.box, .wrapper {
-  box-shadow: 0 0 3px 5px rgba(0,0,0,0.08653);
-}
-a {
-  color: var(--blue);
-  text-decoration-color: var(--yellow);
-}
-
-
-a.button, button, input[type="button"] {
-  color: white;
-  background: var(--pink);
-  padding: 1rem;
-  border: 0;
-  border: 2px solid transparent;
-  text-decoration: none;
-  font-weight: 600;
-  font-size:2rem;
-}
-
-:focus {
-  outline-color: var(--pink);
-}
-
-fieldset {
-  border: 1px solid black;
-}
-
-input:not([type="checkbox"]):not([type="radio"]), textarea, select {
-  display: block;
-  padding: 1rem;
-  border: 1px solid var(--grey);
-}
-
-.success {
-  border: 1px solid red;
-}
 
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+ {
   color: white;
   margin-top: 0;
   line-height: 1;
   text-shadow: var(--text-shadow);
-}
-.wrapper h1,
-.wrapper h2,
-.wrapper h3,
-.wrapper h4,
-.wrapper h5,
-.wrapper h6 {
-  color: var(--black);
-  text-shadow: none;
 }
