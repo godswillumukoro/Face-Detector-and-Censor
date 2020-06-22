@@ -8,4 +8,3 @@ You have options to set how scaled you want the pixelation to be.
 
 It currently only works on Chrome. Plus you need to have 'Experimental Web Platform features' enabled for it to work.
 
-View the app Live here: https://godswillumukoro.github.io/Face-Detector-and-Censor/
