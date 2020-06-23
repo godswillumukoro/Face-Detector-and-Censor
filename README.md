@@ -8,4 +8,4 @@ It takes feed from your webcam or selected camera, then it tracks where your fac
 You have options to set how scaled you want the pixelation to be.
 
 It currently only works on Chrome. Plus you need to have 'Experimental Web Platform features' enabled for it to work.
-
+![Face Detector and Censor Snapshot](/face-detector.png)
