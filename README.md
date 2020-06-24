@@ -1,4 +1,4 @@
-View the app Live here: https://godswillumukoro.github.io/Face-Detector-and-Censor/
+View the Live App here: https://godswillumukoro.github.io/Face-Detector-and-Censor/
 
 This app detects and censors your face using the FaceDetector API
 
